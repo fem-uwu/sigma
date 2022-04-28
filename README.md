@@ -1,3 +1,3 @@
-# sigma-web-archive
-What this?
-I want sigma website to come back so i do this Lol
+# Sigma for Roblox
+simple ass site for my script sigma for roblox bedwars
+dont expect this site to update often lol
